@@ -1,0 +1,10 @@
+1. Un git c'est un logiciel sur l'ordinateur qui permet de récupérer et stocker les projets et Guthub c'est le site en ligne qui permet de gérer les dépôts Git et les publier.
+
+2. Un repository c'est un dossier sur GitHub qui contient tous les documents et fichier du projets.
+
+3. Un commit c'est un sauvegarde du projet. On peux également revenir en arrière grâce a cette sauvegarde.
+Un push c'est envoyer les modifications en local vers le dépôt et un pull c'est récupérer des fichiers du dépôt pour les modifiers.
+
+4. Le fichier README.md est un fichier qui décris le projet avec la possibilité d'y mettre des explication et des consignes pour l'installer correctement.
+
+5. Il faut faire "git clone "puis le lien".
